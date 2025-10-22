@@ -28,7 +28,7 @@
    Als erstes muss man *(im Explorer)* in den Projektordner rein und oben in der Taskleiste *"cmd"* schreiben.
    Dann geht das **CMD** auf und man muss folgendes schreiben:
 
-        git clone <https://github.com/benutzername/repo-name.git> /pfad/zu/deinem/ordner
+        git clone <https://github.com/benutzername/repo-name.git>
 
    *(mit eigenen Daten ausfüllen)*
 
