@@ -1,8 +1,12 @@
-# **Thema:** Erstellen einer ToDo-Applikation mit Markdown, Git, GitHub und Docker
+# **Installation des Projekts** (Erstellen einer ToDo-Applikation mit Markdown, Git, GitHub und Docker)
 
-In dieser Abschlussaufgabe werden alle erlernten Fähigkeiten in den Bereichen **Markdown**, **Git**, **GitHub** und **Docker** kombiniert. Die Aufgabe besteht darin, eine ToDo-Applikation zu erstellen und diese in einem Docker-Container bereitzustellen.
+Als erstes muss man ein **Fork** erstellen.
+Dass mach man indem man, oben rechts auf *"Fork"* drückt.
 
-### **Aufgabenstellung:**
+Als nächstes muss man auf *"Code"* drücken und dann auf *"Download ZIP"*.
+Dann kann man auswählen, wo die ZIP-Datei geöffnet werden soll.
+
+## **Aufgabenstellung:**
 
 1. **GitHub-Fork erstellen:**
    - Erstelle einen **Fork** des folgenden GitHub-Repositories: [docker-nodejs-sample](https://github.com/ICT-BLJ/docker-nodejs-sample).
@@ -40,9 +44,10 @@ In dieser Abschlussaufgabe werden alle erlernten Fähigkeiten in den Bereichen *
    - **GitHub-Link:** Stelle den Link zu deinem GitHub-Repository bereit, das den finalen Stand des Projekts enthält.
 
 ### **Ziele der Aufgabe:**
+
 - Anwendung und Vertiefung von Git und GitHub.
 - Verfassen einer strukturierten Anleitung mit Markdown.
 - Containerisieren einer Node.js-Anwendung mit Docker.
 - Dokumentation des gesamten Prozesses in einem Word-Dokument.
-  
+
 Viel Erfolg bei der Umsetzung!
